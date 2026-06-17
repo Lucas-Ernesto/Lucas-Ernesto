@@ -12,7 +12,6 @@
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** — Faculdade Insted
 - 🔐 Membro do **Sucuri Hacker Club** (comunidade de cibersegurança)
-- 🏆 Participante do **Hackathon BEM | Inteligência de Dados**
 - 🌱 Desenvolvendo um **sistema de gerenciamento de estacionamentos** (Projeto Integrador)
 - 📍 Campo Grande, MS — disponível para estágio presencial, híbrido ou remoto
 - 📫 Me encontre no [LinkedIn](https://www.linkedin.com/in/lucasernestolacerda) | [GitHub](https://github.com/Lucas-Ernesto)
@@ -55,20 +54,6 @@
 
 ---
 
-### 🐍 Snake comendo minhas contribuições
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lucas-Ernesto/Lucas-Ernesto/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lucas-Ernesto/Lucas-Ernesto/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Lucas-Ernesto/Lucas-Ernesto/output/github-snake.svg" />
-</picture>
-
-</div>
-
----
-
 ### 🏆 Troféus
 
 <div align="center">
@@ -95,6 +80,19 @@
 <div align="center">
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Lucas-Ernesto&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)
+
+</div>
+---
+
+### 🐍 Snake comendo minhas contribuições
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lucas-Ernesto/Lucas-Ernesto/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lucas-Ernesto/Lucas-Ernesto/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Lucas-Ernesto/Lucas-Ernesto/output/github-snake.svg" />
+</picture>
 
 </div>
 
