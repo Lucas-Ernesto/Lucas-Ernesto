@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Estudante+de+ADS+%7C+Dev+em+formação;Python+%7C+Web+%7C+Git+%7C+Cibersegurança;Membro+do+Sucuri+Hacker+Club+🔐;Buscando+estágio+em+TI+🚀)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Estudante+de+ADS+%7C+Dev+em+formação;Python+%7C+Web+%7C+Git+%7C+Cibersegurança;Buscando+estágio+em+TI+🚀)
 
 </div>
 
